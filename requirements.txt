@@ -1,0 +1,10 @@
+Flask==0.12.3
+dash
+dash_core_components
+dash_html_components
+plotly
+palettable
+pandas
+numpy
+matplotlib==2.2.3
+ibm-cos-sdk

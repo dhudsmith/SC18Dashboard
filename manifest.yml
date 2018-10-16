@@ -1,0 +1,11 @@
+---
+applications:
+ - name: watson-qual-demo
+   memory: 512M
+   disk_quota: 1000M
+   instances: 1
+   routes:
+   - route: watsonqualdemo.mybluemix.net
+   - route: getstartedpython-intelligent-springhare.mybluemix.net
+   timeout: 180
+
